@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"review",
+				"reviewadd"
+			],
+			[
+				"busi",
+				"businessInfo	statement"
+			],
+			[
+				"bi",
+				"businessCollector	statement"
+			],
+			[
+				"bsi",
+				"business_id"
+			],
+			[
+				"revi",
+				"review_count"
+			],
+			[
+				"data",
+				"dataReturn	statement"
+			],
+			[
+				"b",
+				"businessInfo	statement"
+			],
+			[
+				"business",
+				"business_id"
+			],
+			[
+				"bu",
+				"businesses	statement"
+			],
+			[
+				"each",
+				"eachcountry	forstmt"
+			],
+			[
+				"C",
+				"Cantonese"
+			],
+			[
+				"cat",
+				"categories	statement"
+			],
+			[
+				"ex",
+				"extractList	param"
+			],
+			[
+				"ca",
+				"categories	statement"
+			],
+			[
+				"extrac",
+				"extractList"
+			],
+			[
+				"json",
+				"jsonFileExtractor	function"
+			],
+			[
+				"ext",
+				"extractList	statement"
+			],
+			[
+				"all",
+				"alllines	statement"
+			],
+			[
+				"tripfr",
+				"tripfare	statement"
+			],
+			[
+				"bou",
+				"boundLat	statement"
+			],
+			[
+				"pic",
+				"pickup_latitude"
+			],
+			[
+				"boun",
+				"boundLong	statement"
+			],
+			[
+				"dis",
+				"distance_on_unit_sphere"
+			],
+			[
+				"tri",
+				"trip_time_in_mins"
+			],
+			[
+				"trip_",
+				"trip_time_in_secs"
+			],
+			[
+				"fare",
+				"fare_amount"
+			],
+			[
+				"dr",
+				"dropoff_datetime"
+			],
+			[
+				"fare5",
+				"fare5CRD	statement"
+			],
+			[
+				"ti",
+				"tripfare	statement"
+			],
+			[
+				"old",
+				"oldIndexTripFare	statement"
+			],
+			[
+				"trip",
+				"tripdata	statement"
+			],
+			[
+				"mean",
+				"mean_div	statement"
+			],
+			[
+				"M_num",
+				"M_num_mean_dict	statement"
+			],
+			[
+				"M_nu",
+				"M_num_var	function"
+			],
+			[
+				"M_di",
+				"M_diff_var	function"
+			],
+			[
+				"M_diff",
+				"M_diff_mean	function"
+			],
+			[
+				"var",
+				"varpart2	statement"
+			],
+			[
+				"M_idff_",
+				"M_diff_mean_dict	statement"
+			],
+			[
+				"num",
+				"numTrials	statement"
+			],
+			[
+				"roll",
+				"rollDice	function"
+			],
+			[
+				"fileF",
+				"fileFullData	statement"
+			],
+			[
+				"leav",
+				"leaveStation	statement"
+			],
+			[
+				"que",
+				"queryStationsLeave	statement"
+			],
+			[
+				"DA",
+				"DATABASE"
+			],
+			[
+				"curr",
+				"currBikeRecord	statement"
+			],
+			[
+				"missing",
+				"missingCounter	function"
+			],
+			[
+				"mi",
+				"missingCounter	function"
+			],
+			[
+				"Se",
+				"SELECT"
+			],
+			[
+				"e",
+				"execute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python279.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "git status",
+		"selected_items":
+		[
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commi",
+				"Git: Amend Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Chaoren/nytaxi.py",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/Practice/bikeQ.py",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Chaoren/Dropbox/Private/Course/Computer Science/DataIntensive/Project/sparseData.py",
+		"/Users/Chaoren/Desktop/untitled.sublime-workspace",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/CoinStat.py",
+		"/Users/Chaoren/Downloads/untitled.py",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/BikePlan.sql",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/dataExtract.py",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/bikeQ.py",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/bikes",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter.py",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/SummitEditor/SummitEditor.sublime-settings",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/stations",
+		"/Users/Chaoren/Dropbox/Private/Jobs/Chaoren/DataIncubator/test.py",
+		"/Users/Chaoren/Downloads/WordPress-master/test.py",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/Chaoren/Downloads/WordPress-master/wp-includes/theme-compat/test.py",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/User/python279.sublime-build",
+		"/Users/Chaoren/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Chaoren/Downloads/untitled.tex",
+		"/Users/Chaoren/Desktop/untitled.sublime-project",
+		"/Users/Chaoren/Downloads/Ubuntu_AWS.pem",
+		"/opt/local/etc/macports/macports.conf"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"faredata",
+			"fare5",
+			"Mcollector",
+			"M_diff",
+			"M_diff_dict",
+			"M",
+			"load_votes",
+			"brett",
+			"tripGroupBike",
+			"ratner",
+			"leaveStation",
+			"currBikeRecord",
+			"Counter",
+			"tripAvailable",
+			"missCounter",
+			"query",
+			"		'",
+			"linting",
+			"linter",
+			"linting",
+			"linter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "yelp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
